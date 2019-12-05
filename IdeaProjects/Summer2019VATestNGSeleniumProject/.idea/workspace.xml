@@ -27,10 +27,16 @@
   </component>
   <component name="ProjectId" id="1SXRCCF7gQG7NPtEbdTbQf9pO4h" />
   <component name="PropertiesComponent">
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="GitIgnore" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.import" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Mira\IdeaProjects\Summer2019VATestNGSeleniumProject\target" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -44,17 +50,17 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.DisplayedTest.test1">
-    <configuration name="AnotherRadioButtonsTest.test1" type="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="TestNG.NegativeLoginTestWithReports">
+    <configuration name="ExtentDemoTest.test1" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Summer2019VATestNGSeleniumProject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.Cybertek.tests.d7_types_of_elements.*" />
+          <option name="PATTERN" value="com.Cybertek.tests.d17_ectent_reports.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.Cybertek.tests.d7_types_of_elements" />
-      <option name="MAIN_CLASS_NAME" value="com.Cybertek.tests.d7_types_of_elements.AnotherRadioButtonsTest" />
+      <option name="PACKAGE_NAME" value="com.Cybertek.tests.d17_ectent_reports" />
+      <option name="MAIN_CLASS_NAME" value="com.Cybertek.tests.d17_ectent_reports.ExtentDemoTest" />
       <option name="METHOD_NAME" value="test1" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
@@ -63,17 +69,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DisabledElementTest.test1" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="HoverTest.test" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Summer2019VATestNGSeleniumProject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.Cybertek.tests.d7_types_of_elements.*" />
+          <option name="PATTERN" value="com.Cybertek.tests.d12_review.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.Cybertek.tests.d7_types_of_elements" />
-      <option name="MAIN_CLASS_NAME" value="com.Cybertek.tests.d7_types_of_elements.DisabledElementTest" />
-      <option name="METHOD_NAME" value="test1" />
+      <option name="PACKAGE_NAME" value="com.Cybertek.tests.d12_review" />
+      <option name="MAIN_CLASS_NAME" value="com.Cybertek.tests.d12_review.HoverTest" />
+      <option name="METHOD_NAME" value="test" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -81,34 +87,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DisplayedTest.test1" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="NegativeLoginTestWithReports" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Summer2019VATestNGSeleniumProject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.Cybertek.tests.d7_types_of_elements.*" />
+          <option name="PATTERN" value="com.Cybertek.tests.d17_ectent_reports.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.Cybertek.tests.d7_types_of_elements" />
-      <option name="MAIN_CLASS_NAME" value="com.Cybertek.tests.d7_types_of_elements.DisplayedTest" />
-      <option name="METHOD_NAME" value="test1" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="RadioButtonsTest" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="Summer2019VATestNGSeleniumProject" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.Cybertek.tests.d7_types_of_elements.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.Cybertek.tests.d7_types_of_elements" />
-      <option name="MAIN_CLASS_NAME" value="com.Cybertek.tests.d7_types_of_elements.RadioButtonsTest" />
+      <option name="PACKAGE_NAME" value="com.Cybertek.tests.d17_ectent_reports" />
+      <option name="MAIN_CLASS_NAME" value="com.Cybertek.tests.d17_ectent_reports.NegativeLoginTestWithReports" />
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
@@ -116,17 +104,35 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="checkboxTest.test" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="NegativeLoginTestWithReports.wrongUsernameTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Summer2019VATestNGSeleniumProject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.Cybertek.tests.d7_types_of_elements.*" />
+          <option name="PATTERN" value="com.Cybertek.tests.d17_ectent_reports.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.Cybertek.tests.d7_types_of_elements" />
-      <option name="MAIN_CLASS_NAME" value="com.Cybertek.tests.d7_types_of_elements.checkboxTest" />
-      <option name="METHOD_NAME" value="test" />
+      <option name="PACKAGE_NAME" value="com.Cybertek.tests.d17_ectent_reports" />
+      <option name="MAIN_CLASS_NAME" value="com.Cybertek.tests.d17_ectent_reports.NegativeLoginTestWithReports" />
+      <option name="METHOD_NAME" value="wrongUsernameTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PropertiesTest.test1" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Summer2019VATestNGSeleniumProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.Cybertek.tests.d14_properties_driver_class_test_base_class.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.Cybertek.tests.d14_properties_driver_class_test_base_class" />
+      <option name="MAIN_CLASS_NAME" value="com.Cybertek.tests.d14_properties_driver_class_test_base_class.PropertiesTest" />
+      <option name="METHOD_NAME" value="test1" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -136,11 +142,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.DisplayedTest.test1" />
-        <item itemvalue="TestNG.AnotherRadioButtonsTest.test1" />
-        <item itemvalue="TestNG.checkboxTest.test" />
-        <item itemvalue="TestNG.DisabledElementTest.test1" />
-        <item itemvalue="TestNG.RadioButtonsTest" />
+        <item itemvalue="TestNG.NegativeLoginTestWithReports" />
+        <item itemvalue="TestNG.ExtentDemoTest.test1" />
+        <item itemvalue="TestNG.NegativeLoginTestWithReports.wrongUsernameTest" />
+        <item itemvalue="TestNG.PropertiesTest.test1" />
+        <item itemvalue="TestNG.HoverTest.test" />
       </list>
     </recent_temporary>
   </component>
